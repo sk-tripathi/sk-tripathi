@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Shivendra Tripathi</h1>
 <h3 align="center">Developer | Contributor | Enthusiastic</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -10,13 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Web Development or Data Science**
 
-- 👨‍💻 All of my projects are available at [tripathi-sk.web.app](tripathi-sk.web.app)
-
 - 💬 Ask me about **HTML, CSS, Tableau, Python**
 
 - 📫 How to reach me **ibnsrt@gmail.com**
 
-- 📄 Know about my experiences [tripathi-sk.web.app](tripathi-sk.web.app)
+- 📄 Know about my projects & experiences [https://tripathi-sk.web.app/](https://tripathi-sk.web.app/)
 
 - ⚡ Fun fact **I think i'am funny😇**
 
