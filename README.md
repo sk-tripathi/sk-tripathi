@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript, Open Source and ML**
 
-- 👯 I’m looking to collaborate on **Web Development or Data Science**
+- 👯 I’m looking to collaborate on **JAVA FullStack or Data Science**
 
 - 💬 Ask me about **HTML, CSS, Tableau, Python**
 
